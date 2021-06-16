@@ -3,7 +3,7 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-06-16T12:54:56.170084429Z"
+    created: "2021-06-16T14:14:06.935262012Z"
     description: A Helm chart for Java-Web-Application
     digest: 6454ebde113d55e5e34c06db760a9b2da87b805e8966696b393d043d593fa214
     name: javawebapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://shaik-jahangir.github.io/Jahangirhelm/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-16T12:54:56.168564303Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-16T14:14:06.936230192Z"
+    description: A Helm chart for Kubernetes
+    digest: f10ce20eec6edbb976db639523ac8c12d9f7284fb982a1736674de2aec9fbfca
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://shaik-jahangir.github.io/Jahangirhelm/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-16T14:14:06.933811931Z"
